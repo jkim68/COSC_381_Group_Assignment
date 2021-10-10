@@ -1,9 +1,9 @@
-lord of the rings 1990 Disney
-lion king 1990 Disney
-mulan 1990 Disney
-Avengers 1 1990 Disney
-Avengers 2 1990 Disney
-Avengers 3 1990 Disney
-Spiderman 1 1990 Disney
-Spiderman 2 1990 Disney
-Spiderman 3 1990 Disney
+lord of the rings 1990 Disney DirectorBob
+lion king 1990 Disney DirectorBob
+mulan 1990 Disney DirectorBob
+Avengers 1 1990 Disney DirectorBob
+Avengers 2 1990 Disney DirectorBob
+Avengers 3 1990 Disney DirectorBob
+Spiderman 1 1990 Disney DirectorBob
+Spiderman 2 1990 Disney DirectorBob
+Spiderman 3 1990 Disney DirectorBob
